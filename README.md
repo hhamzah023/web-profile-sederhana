@@ -1,7 +1,11 @@
-<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/1237b933-6e1f-42ed-a5e7-39dc1ba8b564" />
-<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/562edd78-9cbc-4a4d-a625-747984d28d09" />
-<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/664725b1-7301-46e6-b3ba-fd01f7f46907" />
-<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/7ede2782-ff88-4c67-957d-808608b50634" />
+web profile sederhana ini di buat dengan HTML ,CSS, dan Javascript 
+
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/899ca157-746d-412f-a1ff-acb9b1e2c55e" />
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/6449e532-e272-4fa1-aed0-ada4856d716e" />
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/e7bc8b97-386a-4aca-8f38-36c71e87d61d" />
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/e4cce2bf-4e3c-4438-aff0-f198571ef2e3" />
+
+
 
 
 
