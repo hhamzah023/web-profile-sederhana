@@ -6,6 +6,7 @@
     <title>My Website</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
     <!-- NAVBAR -->
     <nav class="navbar">
@@ -20,12 +21,7 @@
     <!-- HOME -->
     <section id="home" class="home">
       <div class="home-content">
-        <img
-          src="assets/images/IjazahUniv.jpg.jpeg"
-          alt="Foto Profil"
-          class="foto-profil"
-        />
-
+        <img src="assets/images/IjazahUniv.jpg.jpeg" class="foto-profil" />
         <div class="home-text">
           <h1>Hajril Hamzah</h1>
           <p>Junior Developer</p>
@@ -36,16 +32,30 @@
     <!-- ABOUT -->
     <section id="about">
       <h2>Tentang Saya</h2>
+
       <p>
-        Nama saya Hajril Hamzah. Saya merupakan lulusan baru (fresh graduate)
-        Sarjana (S1) Ilmu Komputer dengan konsentrasi Rekayasa Perangkat Lunak
-        dari Universitas Cipasung Tasikmalaya.
+        Nama saya <strong>Hajril Hamzah</strong>, saya merupakan lulusan baru
+        (fresh graduate) Program Studi <strong>Ilmu Komputer</strong> dengan
+        konsentrasi <strong>Rekayasa Perangkat Lunak</strong> dari Universitas
+        Cipasung Tasikmalaya. Saya memiliki ketertarikan yang besar terhadap
+        dunia teknologi informasi, khususnya dalam pengembangan aplikasi dan
+        website.
       </p>
+
       <p>
-        Selama perkuliahan, saya mempelajari pemrograman, perancangan sistem,
-        serta pengembangan aplikasi. Saya memiliki minat besar di bidang
-        teknologi informasi dan bersemangat untuk terus belajar serta berkembang
-        secara profesional.
+        Selama masa perkuliahan, saya mempelajari berbagai konsep dasar hingga
+        penerapan pengembangan perangkat lunak, mulai dari pemrograman,
+        perancangan sistem, pengelolaan basis data, hingga pembuatan aplikasi
+        berbasis web. Saya terbiasa menggunakan teknologi seperti HTML, CSS,
+        JavaScript.
+      </p>
+
+      <p>
+        Saya merupakan pribadi yang memiliki semangat belajar tinggi,
+        bertanggung jawab, dan mampu bekerja secara mandiri maupun dalam tim.
+        Melalui website portfolio ini, saya ingin menampilkan hasil karya serta
+        kemampuan yang saya miliki sebagai langkah awal untuk berkarier secara
+        profesional di bidang teknologi informasi.
       </p>
     </section>
 
@@ -55,41 +65,46 @@
 
       <div class="portfolio-container">
         <div class="portfolio-item">
-          <img src="assets/images/webkos.png" alt="Website Pemesanan Kos" />
+          <img src="assets/images/webkos.png" class="portfolio-img" />
           <h3>Website Pemesanan Kos</h3>
         </div>
 
         <div class="portfolio-item">
-          <img
-            src="assets/images/aplikasiperpus.jpeg"
-            alt="Aplikasi Perpustakaan"
-          />
-          <h3>Aplikasi Perpustakaan Sederhana</h3>
+          <img src="assets/images/aplikasiperpus.jpeg" class="portfolio-img" />
+          <h3>Aplikasi Perpustakaan</h3>
         </div>
 
         <div class="portfolio-item">
-          <img src="assets/images/pyhton.png" alt="Kalkulator Diskon" />
+          <img src="assets/images/pyhton.png" class="portfolio-img" />
           <h3>Kalkulator Diskon</h3>
         </div>
       </div>
     </section>
+
+    <!-- MODAL -->
+    <div id="imageModal" class="modal">
+      <span class="close">&times;</span>
+      <img id="modalImage" class="modal-content" />
+    </div>
 
     <!-- CONTACT -->
     <section id="contact">
       <h2>Kontak</h2>
       <p>
         Email:
-        <a href="mailto:hajrilhamzah5@gmail.com"> hajrilhamzah5@gmail.com </a>
+        <a href="mailto:hajrilhamzah5@gmail.com">hajrilhamzah5@gmail.com</a>
       </p>
       <p>
         WhatsApp:
-        <a href="https://wa.me/628590319799" target="_blank"> 0859-0319-799 </a>
+        <a href="https://wa.me/628590319799" target="_blank">0859-0319-799</a>
       </p>
     </section>
 
-    <!-- FOOTER -->
     <footer>
       <p>© 2026 Hajril Hamzah</p>
     </footer>
+
+    <!-- PENTING -->
+    <script src="script.js"></script>
   </body>
 </html>
